@@ -682,7 +682,10 @@ a {
 .cid-p5YADkAkzo {
   padding-top: 15px;
   padding-bottom: 45px;
-  background: linear-gradient(to bottom right, #7f1933, #673ab7);
+  background-image: url("../../../assets/images/mbr-3.jpg");
+}
+.cid-p5YADkAkzo .card-box {
+  padding: 1rem 2rem 2rem;
 }
 .cid-p5YADkAkzo .text-color {
   color: #ffffff;
